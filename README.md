@@ -1,33 +1,39 @@
-👋 Olá! Eu sou Maria Luiza
+# 👋 Olá! Eu sou Maria Luiza
 
-Sou uma desenvolvedora Full Stack em formação, com foco em Python e tecnologias web. Estou sempre em busca de aprendizado contínuo e evolução na área de desenvolvimento.
+Sou uma desenvolvedora **Full Stack** em formação, com foco em **Python** e **tecnologias web**. Estou sempre em busca de aprendizado contínuo e evolução na área de desenvolvimento.
 
-🚀 Sobre Mim
+---
 
-🎯 Atualmente, estudo Full Stack, com ênfase em Python.
-🏗️ Trabalhando em projetos próprios, incluindo o Gerador de Feitiços em JavaScript.
-📌 Planejando desenvolver sites usando HTML, CSS e JavaScript para disponibilizar gratuitamente.
+## 🚀 Sobre Mim
 
-🛠️ Tecnologias e Ferramentas
+- **🎯** Atualmente, estudo **Full Stack**, com ênfase em **Python**.
+- **🏗️** Trabalhando em projetos próprios, incluindo o **Gerador de Feitiços** em **JavaScript**.
+- **📌** Planejando desenvolver **sites** usando **HTML**, **CSS** e **JavaScript** para disponibilizar gratuitamente.
 
-Linguagens: Python, JavaScript
-Front-end: HTML, CSS
-Back-end: Flask (planejando aprender Django)
-Banco de Dados: SQLite, PostgreSQL
-Controle de versão: Git, GitHub
+---
 
+## 🛠️ Tecnologias e Ferramentas
 
-📌 Projetos em Andamento
+- **Linguagens:** Python, JavaScript
+- **Front-end:** HTML, CSS
+- **Back-end:** Flask (planejando aprender Django)
+- **Banco de Dados:** SQLite, PostgreSQL
+- **Controle de versão:** Git, GitHub
 
-🌟 Gerador de Feitiços: Um projeto em JavaScript para gerar feitiços de forma interativa.
-🌐 Portfólio Web: Criando um site para apresentar meus projetos e minha jornada como desenvolvedora.
+---
 
+## 📌 Projetos em Andamento
 
-📫 Contato
+- **🌟 Gerador de Feitiços:** Um projeto em **JavaScript** para gerar feitiços de forma interativa.
+- **🌐 Portfólio Web:** Criando um site para apresentar meus projetos e minha jornada como desenvolvedora.
 
-📧 Email: mluiza.hub@gmail.com
-💼 LinkedIn: www.linkedin.com/in/mariahyde-dev
+---
 
+## 📫 Contato
 
-💡 Sempre aberta a novas oportunidades e colaborações! 🚀
+- 📧 **Email:** [mluiza.hub@gmail.com](mailto:mluiza.hub@gmail.com)
+- 💼 **LinkedIn:** [www.linkedin.com/in/mariahyde-dev](https://www.linkedin.com/in/mariahyde-dev)
 
+---
+
+💡 **Sempre aberta a novas oportunidades e colaborações!** 🚀
