@@ -38,7 +38,7 @@ Acompanhe meus códigos e projetos em: [github.com/hydemaria](https://github.com
 
 ---
 
-# 👋 Hello! I'm Hyde (Maria Luiza)
+# 👋 Hello! I'm Maria Luiza
 
 Aspiring developer focused on **Backend with Java** and interested in Fullstack development.
 
