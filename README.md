@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Hyde (Maria Luiza)
+# 👋 Olá! Eu sou Maria Luiza
 
 Desenvolvedora em formação com foco em **Backend com Java** e interesse em desenvolvimento Fullstack.  
 
