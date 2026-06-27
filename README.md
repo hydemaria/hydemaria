@@ -1,41 +1,68 @@
-# 👋 Olá! Eu sou Maria Luiza
+# Maria Luiza
 
-Desenvolvedora em formação com foco em **Backend com Java** e interesse em desenvolvimento Fullstack.  
-
-Atualmente estudo desenvolvimento web com ênfase em backend, dominando Java e o ecossistema Spring Boot para criação de APIs RESTful. Também aplico HTML, CSS e JavaScript para front-end de projetos estáticos.
+Backend Developer | Python • Flask • Linux
 
 ---
 
-## 💡 Sobre Mim
+## 👋 About me
 
-- Buscando oportunidades como estagiária ou desenvolvedora júnior para aplicar meus conhecimentos em projetos reais.  
-- Apaixonada por aprender, crescer e colaborar em ambientes desafiadores.
+Desenvolvedora em formação com foco em backend e automações.
 
----
+Atualmente estudo desenvolvimento web com Python e Flask, criando APIs e sistemas web funcionais. Também possuo conhecimento em frontend básico com HTML, CSS e JavaScript para construção de interfaces simples.
 
-## 🛠️ Tecnologias e Ferramentas
-
-- **Backend:** Java (em aprendizado), Spring Boot (inicial)  
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Versionamento:** Git, GitHub  
-- **Ferramentas:** VS Code, IntelliJ IDEA, Linux
+Sou apaixonada por aprender através da prática, construindo projetos reais que resolvem problemas e ajudam a consolidar meu conhecimento.
 
 ---
 
-## 📂 Projetos e Repositórios
+## 💡 Focus
 
-Acompanhe meus códigos e projetos em: [github.com/hydemaria](https://github.com/hydemaria) 🍒
-
----
-
-📫 Contato  
-📧 Email: [mluiza.hub@gmail.com](mailto:mluiza.hub@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/mariahyde-dev](https://www.linkedin.com/in/mariahyde-dev)
+- Backend development with Python
+- REST APIs with Flask
+- Automation and practical systems
+- Continuous learning in software engineering
 
 ---
 
-🚀 Sempre em evolução, pronta para o próximo desafio!  
+## 🛠️ Tech Stack
 
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+**Backend**
+- Python
+- Flask
+
+**Frontend**
+- HTML5
+- CSS3
+- JavaScript
+
+**Tools & Environment**
+- Git & GitHub
+- VS Code / Code OSS
+- Linux (Arch Linux)
+- Hyprland
+
+---
+
+## 📂 Featured Project
+
+### SystemFlow
+A billing alert and automation system designed to manage contract notifications and email reminders.
+
+Built with:
+- Python (Flask backend)
+- SQLite database
+- HTML/CSS/JavaScript frontend
+- Email automation (SMTP)
+
+👉 Available on my GitHub repositories
+
+---
+
+## 📫 Contact
+
+- Email: mluiza.hub@gmail.com  
+- LinkedIn: linkedin.com/in/mariahyde-dev  
+- GitHub: github.com/hydemaria
+
+---
+
+## 🚀 Always learning, always building.
